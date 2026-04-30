@@ -1,0 +1,4 @@
+Run Command to Install the required Libraries
+pip install -r requirements.txt
+Then Run the Project by command
+python Question.py
